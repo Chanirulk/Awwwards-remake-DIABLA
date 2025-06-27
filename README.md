@@ -1,4 +1,4 @@
-# This Website was crafted by - @chaniru.lk - Instagram!
+# This Website was crafted by - @chaniru.lk - Instagram!!
 ![Scrrenshot](./src/components/img/screenshot.png)
 # About the AUTHOR
 
